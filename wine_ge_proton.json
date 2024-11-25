@@ -1,0 +1,42 @@
+[
+    {
+        "version": "9.20",
+        "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton9-20/GE-Proton9-20.tar.gz"
+    },
+    {
+        "version": "9.19",
+        "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton9-19/GE-Proton9-19.tar.gz"
+    },
+    {
+        "version": "9.18",
+        "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton9-18/GE-Proton9-18.tar.gz"
+    },
+    {
+        "version": "9.17",
+        "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton9-17/GE-Proton9-17.tar.gz"
+    },
+    {
+        "version": "9.16",
+        "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton9-16/GE-Proton9-18.tar.gz"
+    },
+    {
+        "version": "9.15",
+        "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton9-15/GE-Proton9-18.tar.gz"
+    },
+    {
+        "version": "9.14",
+        "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton9-14/GE-Proton9-18.tar.gz"
+    },
+    {
+        "version": "9.13",
+        "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton9-13/GE-Proton9-18.tar.gz"
+    },
+    {
+        "version": "9.12",
+        "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton9-12/GE-Proton9-18.tar.gz"
+    },
+    {
+        "version": "9.11",
+        "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton9-11/GE-Proton9-18.tar.gz"
+    }
+]

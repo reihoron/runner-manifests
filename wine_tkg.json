@@ -1,0 +1,42 @@
+[
+    {
+        "version": "9.21",
+        "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/9.21/wine-staging-tkg-9.21-x86.tar.xz"
+    },
+    {
+        "version": "9.20",
+        "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/9.20/wine-staging-tkg-9.20-x86.tar.xz"
+    },
+    {
+        "version": "9.19",
+        "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/9.19/wine-staging-tkg-9.19-x86.tar.xz"
+    },
+    {
+        "version": "9.18",
+        "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/9.18/wine-staging-tkg-9.18-x86.tar.xz"
+    },
+    {
+        "version": "9.17",
+        "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/9.17/wine-staging-tkg-9.17-x86.tar.xz"
+    },
+    {
+        "version": "9.16",
+        "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/9.16/wine-staging-tkg-9.16-x86.tar.xz"
+    },
+    {
+        "version": "9.15",
+        "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/9.15/wine-staging-tkg-9.15-x86.tar.xz"
+    },
+    {
+        "version": "9.14",
+        "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/9.14/wine-staging-tkg-9.14-x86.tar.xz"
+    },
+    {
+        "version": "9.13",
+        "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/9.13/wine-staging-tkg-9.13-x86.tar.xz"
+    },
+    {
+        "version": "9.12",
+        "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/9.12/wine-staging-tkg-9.12-x86.tar.xz"
+    }
+]
