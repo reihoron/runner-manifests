@@ -1,0 +1,6 @@
+{
+  "name": "KeqingLauncher official linux runners",
+  "description": "Set of manifests for linux runners on KeqingLauncher.",
+  "maintainers": ["TukanDev", "ForeverRealize"],
+  "manifests": ["wine_caffe.json", "wine_ge_custom.json", "wine_ge_proton.json", "wine_lutris.json", "wine_soda.json", "wine_staging.json", "wine_tkg.json", "wine_vaniglia.json", "wine_vanilla.json"]
+}
