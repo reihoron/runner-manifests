@@ -38,9 +38,5 @@
     {
         "version": "9.13",
         "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/9.13/wine-9.13-amd64.tar.xz"
-    },
-    {
-        "version": "9.12",
-        "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/9.12/wine-9.12-amd64.tar.xz"
     }
 ]
