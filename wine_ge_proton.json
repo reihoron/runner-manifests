@@ -1,42 +1,42 @@
 [
     {
-        "version": "9.20",
-        "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton9-20/GE-Proton9-20.tar.gz"
+        "version": "8.26",
+        "url": "https://github.com/GloriousEggroll/wine-ge-custom/releases/download/GE-Proton8-26/wine-lutris-GE-Proton8-26-x86_64.tar.xz"
     },
     {
-        "version": "9.19",
-        "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton9-19/GE-Proton9-19.tar.gz"
+        "version": "8.25",
+        "url": "https://github.com/GloriousEggroll/wine-ge-custom/releases/download/GE-Proton8-25/wine-lutris-GE-Proton8-25-x86_64.tar.xz"
     },
     {
-        "version": "9.18",
-        "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton9-18/GE-Proton9-18.tar.gz"
+        "version": "8.24",
+        "url": "https://github.com/GloriousEggroll/wine-ge-custom/releases/download/GE-Proton8-24/wine-lutris-GE-Proton8-24-x86_64.tar.xz"
     },
     {
-        "version": "9.17",
-        "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton9-17/GE-Proton9-17.tar.gz"
+        "version": "8.23",
+        "url": "https://github.com/GloriousEggroll/wine-ge-custom/releases/download/GE-Proton8-23/wine-lutris-GE-Proton8-23-x86_64.tar.xz"
     },
     {
-        "version": "9.16",
-        "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton9-16/GE-Proton9-16.tar.gz"
+        "version": "8.22",
+        "url": "https://github.com/GloriousEggroll/wine-ge-custom/releases/download/GE-Proton8-22/wine-lutris-GE-Proton8-22-x86_64.tar.xz"
     },
     {
-        "version": "9.15",
-        "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton9-15/GE-Proton9-15.tar.gz"
+        "version": "8.21",
+        "url": "https://github.com/GloriousEggroll/wine-ge-custom/releases/download/GE-Proton8-21/wine-lutris-GE-Proton8-21-x86_64.tar.xz"
     },
     {
-        "version": "9.14",
-        "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton9-14/GE-Proton9-14.tar.gz"
+        "version": "8.20",
+        "url": "https://github.com/GloriousEggroll/wine-ge-custom/releases/download/GE-Proton8-20/wine-lutris-GE-Proton8-20-x86_64.tar.xz"
     },
     {
-        "version": "9.13",
-        "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton9-13/GE-Proton9-13.tar.gz"
+        "version": "8.19",
+        "url": "https://github.com/GloriousEggroll/wine-ge-custom/releases/download/GE-Proton8-19/wine-lutris-GE-Proton8-19-x86_64.tar.xz"
     },
     {
-        "version": "9.12",
-        "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton9-12/GE-Proton9-12.tar.gz"
+        "version": "8.18",
+        "url": "https://github.com/GloriousEggroll/wine-ge-custom/releases/download/GE-Proton8-18/wine-lutris-GE-Proton8-18-x86_64.tar.xz"
     },
     {
-        "version": "9.11",
-        "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton9-11/GE-Proton9-11.tar.gz"
+        "version": "8.17",
+        "url": "https://github.com/GloriousEggroll/wine-ge-custom/releases/download/GE-Proton8-17/wine-lutris-GE-Proton8-17-x86_64.tar.xz"
     }
 ]

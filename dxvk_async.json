@@ -1,6 +1,6 @@
 [
   {
-    "version": "2.0-async",
+    "version": "2.0.0-async",
     "uri": "https://github.com/Sporif/dxvk-async/releases/download/2.0/dxvk-async-2.0.tar.gz"
   },
   {
@@ -16,7 +16,7 @@
     "uri": "https://github.com/Sporif/dxvk-async/releases/download/1.10.1/dxvk-async-1.10.1.tar.gz"
   },
   {
-    "version": "1.10-async",
+    "version": "1.10.0-async",
     "uri": "https://github.com/Sporif/dxvk-async/releases/download/1.10/dxvk-async-1.10.tar.gz"
   },
   {
@@ -36,15 +36,11 @@
     "uri": "https://github.com/Sporif/dxvk-async/releases/download/1.9.1/dxvk-async-1.9.1.tar.gz"
   },
   {
-    "version": "1.9-async",
+    "version": "1.9.0-async",
     "uri": "https://github.com/Sporif/dxvk-async/releases/download/1.9/dxvk-async-1.9.tar.gz"
   },
   {
     "version": "1.8.1-async",
-    "uri": "https://github.com/Sporif/dxvk-async/releases/download/1.8.1/dxvk-async-1.8.1.tar.gz"
-  },
-  {
-    "version": "1.8-async",
     "uri": "https://github.com/Sporif/dxvk-async/releases/download/1.8.1/dxvk-async-1.8.1.tar.gz"
   }
 ]
