@@ -1,5 +1,9 @@
 [
     {
+        "version": "9.26",
+        "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton9-26/GE-Proton9-26.tar.gz"
+    },
+    {
         "version": "9.25",
         "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton9-25/GE-Proton9-25.tar.gz"
     },

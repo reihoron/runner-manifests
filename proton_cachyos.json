@@ -1,5 +1,9 @@
 [
     {
+        "version": "9.0-20250307",
+        "url": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-9.0-20250307-slr/proton-cachyos-9.0-20250307-slr-x86_64.tar.xz"
+    },
+    {
         "version": "9.0-20250227",
         "url": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-9.0-20250227-slr/proton-cachyos-9.0-20250227-slr-x86_64.tar.xz"
     },

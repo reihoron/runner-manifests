@@ -1,5 +1,9 @@
 [
     {
+        "version": "10.3",
+        "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.3/wine-10.3-staging-amd64.tar.xz"
+    },
+    {
         "version": "10.2",
         "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.2/wine-10.2-staging-amd64.tar.xz"
     },
