@@ -1,14 +1,18 @@
-[
-    {
-        "version": "9.0-1",
-        "url": "https://github.com/bottlesdevs/wine/releases/download/soda-9.0-1/soda-9.0-1-x86_64.tar.xz"
-    },
-    {
-        "version": "8.0-2",
-        "url": "https://github.com/bottlesdevs/wine/releases/download/soda-8.0-2/soda-8.0-2-x86_64.tar.xz"
-    },
-    {
-        "version": "experimental-8.0",
-        "url": "https://github.com/bottlesdevs/wine/releases/download/soda-experimental_8.0/soda-experimental_8.0-x86_64.tar.xz"
-    }
-]
+{
+    "version": 1,
+    "display_name": "Wine (Soda)",
+    "versions": [
+        {
+            "version": "9.0-1",
+            "url": "https://github.com/bottlesdevs/wine/releases/download/soda-9.0-1/soda-9.0-1-x86_64.tar.xz"
+        },
+        {
+            "version": "8.0-2",
+            "url": "https://github.com/bottlesdevs/wine/releases/download/soda-8.0-2/soda-8.0-2-x86_64.tar.xz"
+        },
+        {
+            "version": "experimental-8.0",
+            "url": "https://github.com/bottlesdevs/wine/releases/download/soda-experimental_8.0/soda-experimental_8.0-x86_64.tar.xz"
+        }
+    ]
+}
