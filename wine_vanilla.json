@@ -3,59 +3,59 @@
     "display_name": "Wine (Vanilla)",
     "versions": [
         {
-            "version": "10.3",
+            "version": "10.3-wine-vanilla",
             "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.3/wine-10.3-amd64.tar.xz"
         },
         {
-            "version": "10.2",
+            "version": "10.2-wine-vanilla",
             "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.2/wine-10.2-amd64.tar.xz"
         },
         {
-            "version": "10.1",
+            "version": "10.1-wine-vanilla",
             "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.1/wine-10.1-amd64.tar.xz"
         },
         {
-            "version": "10.0",
+            "version": "10.0-wine-vanilla",
             "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.0/wine-10.0-amd64.tar.xz"
         },
         {
-            "version": "9.22",
+            "version": "9.22-wine-vanilla",
             "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/9.22/wine-9.22-amd64.tar.xz"
         },
         {
-            "version": "9.21",
+            "version": "9.21-wine-vanilla",
             "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/9.21/wine-9.21-amd64.tar.xz"
         },
         {
-            "version": "9.20",
+            "version": "9.20-wine-vanilla",
             "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/9.20/wine-9.20-amd64.tar.xz"
         },
         {
-            "version": "9.19",
+            "version": "9.19-wine-vanilla",
             "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/9.19/wine-9.19-amd64.tar.xz"
         },
         {
-            "version": "9.18",
+            "version": "9.18-wine-vanilla",
             "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/9.18/wine-9.18-amd64.tar.xz"
         },
         {
-            "version": "9.17",
+            "version": "9.17-wine-vanilla",
             "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/9.17/wine-9.17-amd64.tar.xz"
         },
         {
-            "version": "9.16",
+            "version": "9.16-wine-vanilla",
             "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/9.16/wine-9.16-amd64.tar.xz"
         },
         {
-            "version": "9.15",
+            "version": "9.15-wine-vanilla",
             "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/9.15/wine-9.15-amd64.tar.xz"
         },
         {
-            "version": "9.14",
+            "version": "9.14-wine-vanilla",
             "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/9.14/wine-9.14-amd64.tar.xz"
         },
         {
-            "version": "9.13",
+            "version": "9.13-wine-vanilla",
             "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/9.13/wine-9.13-amd64.tar.xz"
         }
     ]

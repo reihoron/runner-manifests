@@ -3,15 +3,15 @@
     "display_name": "Wine (Vaniglia)",
     "versions": [
         {
-            "version": "8.6",
+            "version": "8.6-wine-vaniglia",
             "url": "https://github.com/bottlesdevs/wine/releases/download/8.6/vaniglia-8.6-x86_64.tar.gz"
         },
         {
-            "version": "7.22",
+            "version": "7.22-wine-vaniglia",
             "url": "https://github.com/bottlesdevs/wine/releases/download/7.22/vaniglia-7.22-x86_64.tar.gz"
         },
         {
-            "version": "7.19",
+            "version": "7.19-wine-vaniglia",
             "url": "https://github.com/bottlesdevs/wine/releases/download/7.19/vaniglia-7.19-x86_64.tar.gz"
         }
     ]
