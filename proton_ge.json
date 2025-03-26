@@ -66,5 +66,11 @@
             "version": "9.11-proton-ge",
             "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton9-11/GE-Proton9-11.tar.gz"
         }
-    ]
+    ],
+    "paths": {
+        "wine32": "files/bin/wine",
+        "wine64": "files/bin/wine64",
+        "wine_server": "files/bin/wineserver",
+        "wine_boot": ""
+    }
 }

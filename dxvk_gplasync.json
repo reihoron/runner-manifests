@@ -58,5 +58,11 @@
       "version": "2.1-4-gplasync",
       "url": "https://gitlab.com/Ph42oN/dxvk-gplasync/-/raw/main/releases/dxvk-gplasync-v2.1-4.tar.gz"
     }
-  ]
+  ],
+  "paths": {
+    "wine32": "",
+    "wine64": "",
+    "wine_server": "",
+    "wine_boot": ""
+  }
 }

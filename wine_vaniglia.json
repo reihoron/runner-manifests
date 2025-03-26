@@ -14,5 +14,11 @@
             "version": "7.19-wine-vaniglia",
             "url": "https://github.com/bottlesdevs/wine/releases/download/7.19/vaniglia-7.19-x86_64.tar.gz"
         }
-    ]
+    ],
+    "paths": {
+        "wine32": "bin/wine",
+        "wine64": "bin/wine64",
+        "wine_server": "bin/wineserver",
+        "wine_boot": "bin/wineboot"
+    }
 }

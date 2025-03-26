@@ -42,5 +42,11 @@
             "version": "8.17-wine-ge-proton",
             "url": "https://github.com/GloriousEggroll/wine-ge-custom/releases/download/GE-Proton8-17/wine-lutris-GE-Proton8-17-x86_64.tar.xz"
         }
-    ]
+    ],
+    "paths": {
+        "wine32": "bin/wine",
+        "wine64": "bin/wine64",
+        "wine_server": "bin/wineserver",
+        "wine_boot": "bin/wineboot"
+    }
 }

@@ -14,5 +14,11 @@
             "version": "experimental-8.0-wine-soda",
             "url": "https://github.com/bottlesdevs/wine/releases/download/soda-experimental_8.0/soda-experimental_8.0-x86_64.tar.xz"
         }
-    ]
+    ],
+    "paths": {
+        "wine32": "bin/wine",
+        "wine64": "bin/wine64",
+        "wine_server": "bin/wineserver",
+        "wine_boot": "bin/wineboot"
+    }
 }

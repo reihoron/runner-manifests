@@ -34,5 +34,11 @@
             "version": "9.0-20241206-proton-cachyos",
             "url": "https://github.com/CachyOS/proton-cachyos/releases/download/cachyos-9.0-20241206-slr/proton-cachyos-9.0-20241206-slr-x86_64.tar.xz"
         }
-    ]
+    ],
+    "paths": {
+        "wine32": "files/bin/wine",
+        "wine64": "files/bin/wine64",
+        "wine_server": "files/bin/wineserver",
+        "wine_boot": ""
+    }
 }

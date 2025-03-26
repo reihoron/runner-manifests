@@ -46,5 +46,11 @@
       "version": "1.8.1-async",
       "url": "https://github.com/Sporif/dxvk-async/releases/download/1.8.1/dxvk-async-1.8.1.tar.gz"
     }
-  ]
+  ],
+  "paths": {
+    "wine32": "",
+    "wine64": "",
+    "wine_server": "",
+    "wine_boot": ""
+  }
 }

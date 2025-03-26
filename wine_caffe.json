@@ -18,5 +18,11 @@
             "version": "8.18-wine-caffe",
             "url": "https://github.com/bottlesdevs/wine/releases/download/caffe-8.18/caffe-8.18-x86_64.tar.xz"
         }
-    ]
+    ],
+    "paths": {
+        "wine32": "bin/wine",
+        "wine64": "bin/wine64",
+        "wine_server": "bin/wineserver",
+        "wine_boot": "bin/wineboot"
+    }
 }
