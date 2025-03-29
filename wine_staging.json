@@ -65,7 +65,7 @@
     ],
     "paths": {
         "wine32": "bin/wine",
-        "wine64": "bin/wine64",
+        "wine64": "",
         "wine_server": "bin/wineserver",
         "wine_boot": "bin/wineboot"
     }
