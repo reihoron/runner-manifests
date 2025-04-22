@@ -13,6 +13,7 @@
     "wine_ge_proton.json",
     "proton_ge.json",
     "proton_cachyos.json",
+    "proton_umu.json",
     "dxvk_vanilla.json",
     "dxvk_async.json",
     "dxvk_gplasync.json"

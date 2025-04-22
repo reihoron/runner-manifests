@@ -1,0 +1,24 @@
+{
+    "version": 1,
+    "display_name": "Proton (UMU)",
+    "versions": [
+        {
+            "version": "9.0-3.2-proton-umu",
+            "url": "https://github.com/Open-Wine-Components/umu-proton/releases/download/UMU-Proton-9.0-3.2/UMU-Proton-9.0-3.2.tar.gz"
+        },
+        {
+            "version": "9.0-3.0-proton-umu",
+            "url": "https://github.com/Open-Wine-Components/umu-proton/releases/download/UMU-Proton-9.0-3/UMU-Proton-9.0-3.tar.gz"
+        },
+        {
+            "version": "8.0-5.3-proton-umu",
+            "url": "https://github.com/Open-Wine-Components/umu-proton/releases/download/ULWGL-Proton-8.0-5-3/ULWGL-Proton-8.0-5-3.tar.gz"
+        }
+    ],
+    "paths": {
+        "wine32": "files/bin/wine",
+        "wine64": "files/bin/wine64",
+        "wine_server": "files/bin/wineserver",
+        "wine_boot": ""
+    }
+}
