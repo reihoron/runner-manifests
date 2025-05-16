@@ -3,6 +3,14 @@
     "display_name": "Wine (Staging TKG)",
     "versions": [
         {
+            "version": "10.7-wine-staging-tkg",
+            "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.7/wine-10.7-staging-tkg-amd64.tar.xz"
+        },
+        {
+            "version": "10.6-wine-staging-tkg",
+            "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.6/wine-10.6-staging-tkg-amd64.tar.xz"
+        },
+        {
             "version": "10.5-wine-staging-tkg",
             "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.5/wine-10.5-staging-tkg-amd64.tar.xz"
         },

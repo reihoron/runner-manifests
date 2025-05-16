@@ -3,6 +3,10 @@
     "display_name": "Proton (UMU)",
     "versions": [
         {
+            "version": "9.0-4e-proton-umu",
+            "url": "https://github.com/Open-Wine-Components/umu-proton/releases/download/UMU-Proton-9.0-4e/UMU-Proton-9.0-4e.tar.gz"
+        },
+        {
             "version": "9.0-3.2-proton-umu",
             "url": "https://github.com/Open-Wine-Components/umu-proton/releases/download/UMU-Proton-9.0-3.2/UMU-Proton-9.0-3.2.tar.gz"
         },
