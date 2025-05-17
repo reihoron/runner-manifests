@@ -1,6 +1,6 @@
 {
   "name": "Official linux runners",
-  "description": "Set of manifests for linux runners on KeqingLauncher.",
+  "description": "Set of manifests for linux runners on TwintailLauncher.",
   "maintainers": ["TukanDev"],
   "manifests": [
     "wine_vanilla.json",
