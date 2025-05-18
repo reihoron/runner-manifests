@@ -20,8 +20,8 @@
         }
     ],
     "paths": {
-        "wine32": "files/bin/wine",
-        "wine64": "files/bin/wine64",
+        "wine32": "proton",
+        "wine64": "proton",
         "wine_server": "files/bin/wineserver",
         "wine_boot": ""
     }
