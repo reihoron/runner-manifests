@@ -3,6 +3,18 @@
     "display_name": "Wine (Vanilla)",
     "versions": [
         {
+            "version": "10.9-wine-vanilla",
+            "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.9/wine-10.9-amd64.tar.xz"
+        },
+        {
+            "version": "10.8-wine-vanilla",
+            "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.8/wine-10.8-amd64.tar.xz"
+        },
+        {
+            "version": "10.7-wine-vanilla",
+            "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.7/wine-10.7-amd64.tar.xz"
+        },
+        {
             "version": "10.6-wine-vanilla",
             "url": "https://github.com/Kron4ek/Wine-Builds/releases/download/10.6/wine-10.6-amd64.tar.xz"
         },
