@@ -3,13 +3,13 @@
   "description": "Set of manifests for linux runners on TwintailLauncher.",
   "maintainers": ["TukanDev"],
   "manifests": [
+    "proton_cachyos.json",
+    "proton_ge.json",
+    "proton_umu.json",
     "wine_vanilla.json",
     "wine_staging.json",
     "wine_staging_tkg.json",
     "wine_lutris.json",
-    "proton_ge.json",
-    "proton_cachyos.json",
-    "proton_umu.json",
     "dxvk_vanilla.json",
     "dxvk_async.json",
     "dxvk_gplasync.json"
