@@ -1,0 +1,20 @@
+{
+    "version": 1,
+    "display_name": "Proton (Spritz-CachyOS)",
+    "versions": [
+        {
+            "version": "spritz-cachyos-10.0-20250714-slr",
+            "url": "https://github.com/NelloKudo/proton-cachyos/releases/download/spritz-cachyos-10.0-20250714-slr/proton-spritz-cachyos-10.0-20250714-slr-x86_64.tar.xz"
+        },
+        {
+            "version": "spritz-cachyos-10.0-20250714-slr-v3",
+            "url": "https://github.com/NelloKudo/proton-cachyos/releases/download/spritz-cachyos-10.0-20250714-slr/proton-spritz-cachyos-10.0-20250714-slr-x86_64_v3.tar.xz"
+        }
+    ],
+    "paths": {
+        "wine32": "proton",
+        "wine64": "proton",
+        "wine_server": "files/bin/wineserver",
+        "wine_boot": ""
+    }
+}
